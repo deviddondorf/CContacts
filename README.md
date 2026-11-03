@@ -10,6 +10,11 @@ Very basic handling like:
 - Deleting a contact
 - And a Quit option easier than vim
 
+### Roadmap-ish
+- [x] Make it exist
+- [ ] Add contact edit feature
+- [ ] Make a search feature
+
 ## Requirements (Dependencies)
 It uses SQLite3-Dev
 

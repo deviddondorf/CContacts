@@ -1,5 +1,7 @@
 # CContacts
 A lightweight, CLI-based phone-/contactbook written in C.
+(Made for Debian)
+
 
 ## Features
 Very basic handling like:

@@ -1,0 +1,8 @@
+
+ccontacts
+*.deb
+Contacts.db
+/ccontacts-deb
+.idea/misc.xml
+.idea/dataSources.xml
+.idea/db-forest-config.xml
